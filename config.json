@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authetringify",
+        "uuid": 15499640,
+        "checksum": "xcovqg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
